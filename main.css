@@ -1,0 +1,171 @@
+body{
+  background-color: #D3E4CD
+}
+
+img{
+  height: 200px;
+  width: 200px;
+  margin-top: 20px;
+
+}
+
+h1{
+  color: #519259;
+}
+
+#main_div{
+
+  height: 250px;
+}
+
+#main_div2{
+  height: 400px;
+}
+
+#photo_dev{
+  float: left;
+  width: 20%;
+  height: 100%;
+}
+
+#bio_dev{
+  margin-left: 10px;
+  margin-top: 40px;
+  float:right;
+  width: 75%;
+  height: 80%;
+}
+
+#intro{
+margin-left: 5px;
+line-height: 25px;
+}
+
+button{
+border-radius: 10px;
+height: 30px;
+width: 160px;
+text-shadow: 2px;
+background-color: #D8B6A4;
+}
+
+hr{
+  color: #B91646;
+}
+
+.maintag{
+  text-decoration-style: wavy;
+}
+
+
+h2{
+color: #17D7A0;
+}
+
+h1{
+  color: #17D7A0;
+  }
+
+li{
+  margin-bottom: 10px;
+}
+
+#Edu{
+   float: left;
+   width: 33.33%;
+   height: 100%;
+}
+
+#skills{
+  float: right;
+  width: 33.33%;
+  height: 100%;
+}
+
+#hobby{
+  float: right;
+  width: 33.33%;
+  height: 100%;
+}
+
+#Certifications{
+  height: 350px;
+  float: left;
+  text-align:justify;
+  width: 65%;
+  line-height: 25px;
+}
+
+#empty_section{
+
+  float:right;
+  width: 35%;
+
+}
+
+#intro{
+  margin-left: 10px;
+}
+
+
+#exp_table{
+  align-items: flex-end;
+  border: 1px;
+  border-color: blue;
+}
+
+td{
+  padding: 5px;
+}
+
+#contact{
+margin-left: 10px;
+}
+
+
+#projects{
+  float: right;
+  line-height: 25px;
+  text-align:justify;
+  width: 65%;
+}
+
+#empty_section2{
+
+  float:left;
+  width: 35%;
+
+}
+
+#Curriculars{
+  float: left;
+  line-height: 25px;
+  text-align:justify;
+  width: 65%;
+}
+
+#empty_section3{
+
+  float:right;
+  width: 35%;
+
+}
+
+#Publications{
+  float: right;
+  text-align:justify;
+  line-height: 25px;
+  width: 65%;
+
+}
+
+#Publication{
+  height: 50px;
+}
+
+#empty_section4{
+
+  float:left;
+  width: 35%;
+
+}
